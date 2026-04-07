@@ -64,26 +64,30 @@ the pinky and the brain product line. defi infrastructure that converts on-chain
 
 ---
 
-### [kr8tiv-io](https://github.com/kr8tiv-io) — the marketing + design company
+### [kr8tiv-io](https://github.com/kr8tiv-io) — the design samurai
 
-this is the side of the business that actually pays the bills. [kr8tiv.io](https://www.kr8tiv.io) is our marketing and design agency — full-service branding, web design, 3d animation, packaging, social media, the whole stack. we build websites and brands for clients and for ourselves. honestly it's my favorite part. taking something ugly and making it unforgettable.
+[kr8tiv.io](https://www.kr8tiv.io) is our creative agency. branding alchemy. no corporate cringe. direct-to-founder. the tagline is "designing brands too good to ignore, too real to forget" and honestly we mean it.
 
-**websites we've designed and built:**
+i spent years paying agencies that didn't understand founder problems. layers of account managers between me and the person actually doing the work. so i built the design partner i always wished existed. $20 business cards to $50K rebrands — we don't gatekeep quality behind a price tag. tools evolved. we're democratizing.
 
-| Site | Client / Project | Repo |
-|------|-----------------|------|
-| [auroraventures.agency](https://auroraventures.agency) | Aurora Ventures — our own vc studio | [`Aurora-Ventures-Website`](https://github.com/kr8tiv-io/Aurora-Ventures-Website) |
-| [meetyourkin.com](https://meetyourkin.com) | KIN — ai companion platform | [`Kinbykr8tiv-website`](https://github.com/kr8tiv-io/Kinbykr8tiv-website) |
-| [kr8tiv.ai](https://www.kr8tiv.ai) | KR8TIV AI — our ai branch | [`kr8tiv-ai-website`](https://github.com/kr8tiv-io/kr8tiv-ai-website) |
-| [kr8tiv.io](https://www.kr8tiv.io) | KR8TIV Agency — the agency itself | [`kr8tiv-website`](https://github.com/kr8tiv-io/kr8tiv-website) |
-| [matthaynes.fun](https://matthaynes.fun) | personal portfolio | [`matthaynes-website`](https://github.com/kr8tiv-io/matthaynes-website) |
-| [wethesavage.com](https://wethesavage.com) | Savage Fit — fitness coaching (client) | [`savage-fit-website`](https://github.com/kr8tiv-io/savage-fit-website) |
-| jarvislife.io | Jarvis LifeOS — ai trading bot | [`Jarvis-by-Kr8tiv-Website`](https://github.com/kr8tiv-io/Jarvis-by-Kr8tiv-Website) |
-| coming clean book landing | book sales landing page (client) | [`Coming-Clean-Book-Landing-Page`](https://github.com/kr8tiv-io/Coming-Clean-Book-Landing-Page) |
-| evolve rebrand | commercial surface restoration (client) | [`Evolve-Rebrand`](https://github.com/kr8tiv-io/Evolve-Rebrand) |
-| pinky and the brain | $brain token ecosystem site | [`Pinkyandthebrain`](https://github.com/kr8tiv-io/Pinkyandthebrain) |
+web design, branding, 3d animation, video editing, packaging, ux/ui, blockchain design, marketing automation, paid ads, ecommerce, content strategy. and creative consulting — which we affectionately call "weaponized autism." radical concepts for any industry. if we're not the right fit, we'll tell you immediately. no point wasting anyone's time pretending.
 
-we like building websites. a lot. if it needs to look good on the internet, we've probably already built three versions of it at 1am.
+**some things we've designed and built:**
+
+| | What | Repo |
+|---|------|------|
+| [auroraventures.agency](https://auroraventures.agency) | our own vc studio site — quiet infrastructure for the next internet | [`Aurora-Ventures-Website`](https://github.com/kr8tiv-io/Aurora-Ventures-Website) |
+| [meetyourkin.com](https://meetyourkin.com) | kin ai companion platform — 3d creatures, soul authoring, the works | [`Kinbykr8tiv-website`](https://github.com/kr8tiv-io/Kinbykr8tiv-website) |
+| [kr8tiv.ai](https://www.kr8tiv.ai) | our ai branch — autonomous content creation meets the singularity | [`kr8tiv-ai-website`](https://github.com/kr8tiv-io/kr8tiv-ai-website) |
+| [kr8tiv.io](https://www.kr8tiv.io) | the agency itself — had to eat our own cooking on this one | [`kr8tiv-website`](https://github.com/kr8tiv-io/kr8tiv-website) |
+| [wethesavage.com](https://wethesavage.com) | savage fit — online fitness coaching for an IFBB pro (client build) | [`savage-fit-website`](https://github.com/kr8tiv-io/savage-fit-website) |
+| jarvislife.io | jarvis lifeos — landing page for the trading bot that sometimes listens | [`Jarvis-by-Kr8tiv-Website`](https://github.com/kr8tiv-io/Jarvis-by-Kr8tiv-Website) |
+| [matthaynes.fun](https://matthaynes.fun) | personal portfolio — built it at 3am, no regrets | [`matthaynes-website`](https://github.com/kr8tiv-io/matthaynes-website) |
+| coming clean | book sales landing page — conversion-optimized (client) | [`Coming-Clean-Book-Landing-Page`](https://github.com/kr8tiv-io/Coming-Clean-Book-Landing-Page) |
+| evolve | commercial surface restoration rebrand (client) | [`Evolve-Rebrand`](https://github.com/kr8tiv-io/Evolve-Rebrand) |
+| pinky and the brain | $brain token ecosystem site — yes it's as fun as it sounds | [`Pinkyandthebrain`](https://github.com/kr8tiv-io/Pinkyandthebrain) |
+
+good design is invisible. great design makes you feel something. we aim for the second one and occasionally nail it three whiskeys deep at midnight.
 
 ---
 
@@ -108,7 +112,7 @@ the pinky and the brain ecosystem token. powers pinkbrain router, pinkbrain lp, 
 | Project | What it is |
 |---------|-----------|
 | **[Jarvis](https://github.com/Matt-Aurora-Ventures/Jarvis)** | ai trading bot on solana. 81+ active strategies. occasionally profitable. always entertaining. |
-| **[gsd-2](https://github.com/Matt-Aurora-Ventures/gsd-2)** | meta-prompting and spec-driven dev system for long-running autonomous agents |
+| **[gsd-2](https://github.com/Matt-Aurora-Ventures/gsd-2)** | meta-prompting and spec-driven dev system for long-running autonomous agents. we contribute the odd pr — we didn't build this one, just help keep it sharp. |
 | **[kr8tiv-MSW](https://github.com/Matt-Aurora-Ventures/kr8tiv-MSW)** | make shit work — an iterative loop that does what it says on the tin |
 | **[kr8tiv-launchpad](https://github.com/Matt-Aurora-Ventures/kr8tiv-launchpad)** | solana token launchpad with configurable taxes via bags api |
 
