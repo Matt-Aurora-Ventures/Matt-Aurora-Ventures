@@ -64,6 +64,29 @@ the pinky and the brain product line. defi infrastructure that converts on-chain
 
 ---
 
+### [kr8tiv-io](https://github.com/kr8tiv-io) — the marketing + design company
+
+this is the side of the business that actually pays the bills. [kr8tiv.io](https://www.kr8tiv.io) is our marketing and design agency — full-service branding, web design, 3d animation, packaging, social media, the whole stack. we build websites and brands for clients and for ourselves. honestly it's my favorite part. taking something ugly and making it unforgettable.
+
+**websites we've designed and built:**
+
+| Site | Client / Project | Repo |
+|------|-----------------|------|
+| [auroraventures.agency](https://auroraventures.agency) | Aurora Ventures — our own vc studio | [`Aurora-Ventures-Website`](https://github.com/kr8tiv-io/Aurora-Ventures-Website) |
+| [meetyourkin.com](https://meetyourkin.com) | KIN — ai companion platform | [`Kinbykr8tiv-website`](https://github.com/kr8tiv-io/Kinbykr8tiv-website) |
+| [kr8tiv.ai](https://www.kr8tiv.ai) | KR8TIV AI — our ai branch | [`kr8tiv-ai-website`](https://github.com/kr8tiv-io/kr8tiv-ai-website) |
+| [kr8tiv.io](https://www.kr8tiv.io) | KR8TIV Agency — the agency itself | [`kr8tiv-website`](https://github.com/kr8tiv-io/kr8tiv-website) |
+| [matthaynes.fun](https://matthaynes.fun) | personal portfolio | [`matthaynes-website`](https://github.com/kr8tiv-io/matthaynes-website) |
+| [wethesavage.com](https://wethesavage.com) | Savage Fit — fitness coaching (client) | [`savage-fit-website`](https://github.com/kr8tiv-io/savage-fit-website) |
+| jarvislife.io | Jarvis LifeOS — ai trading bot | [`Jarvis-by-Kr8tiv-Website`](https://github.com/kr8tiv-io/Jarvis-by-Kr8tiv-Website) |
+| coming clean book landing | book sales landing page (client) | [`Coming-Clean-Book-Landing-Page`](https://github.com/kr8tiv-io/Coming-Clean-Book-Landing-Page) |
+| evolve rebrand | commercial surface restoration (client) | [`Evolve-Rebrand`](https://github.com/kr8tiv-io/Evolve-Rebrand) |
+| pinky and the brain | $brain token ecosystem site | [`Pinkyandthebrain`](https://github.com/kr8tiv-io/Pinkyandthebrain) |
+
+we like building websites. a lot. if it needs to look good on the internet, we've probably already built three versions of it at 1am.
+
+---
+
 ### [aurora ventures](https://auroraventures.agency) — the parent company
 
 started as a blockchain vc fund in 2017. invested in 50+ startups. contributed to 15+ protocols. now it's the umbrella for everything i build. less "we write term sheets" and more "we write code at weird hours and hope the tests pass."
@@ -98,7 +121,7 @@ i run 5 orgs on github. yes, five. no i don't sleep much.
 | Org | What | GitHub | Website |
 |-----|------|--------|---------|
 | **kr8tiv-ai** | decentralized ai + defi infrastructure | [github.com/kr8tiv-ai](https://github.com/kr8tiv-ai) | [kr8tiv.ai](https://www.kr8tiv.ai) |
-| **kr8tiv-io** | design studio — branding, web, 3d, packaging | [github.com/kr8tiv-io](https://github.com/kr8tiv-io) | [kr8tiv.io](https://www.kr8tiv.io) |
+| **kr8tiv-io** | marketing + design agency — websites, branding, 3d, packaging | [github.com/kr8tiv-io](https://github.com/kr8tiv-io) | [kr8tiv.io](https://www.kr8tiv.io) |
 | **aurabnb** | decentralized community-owned stays in costa rica | [github.com/aurabnb](https://github.com/aurabnb) | [gitbook](https://aurabnb.gitbook.io/aurabnb) |
 | **Aura-H2o** | dao-governed free water through ad sponsorship | [github.com/Aura-H2o](https://github.com/Aura-H2o) | [aurah2o.net](https://aurah2o.net) |
 | **Aura-Farms** | aeroponics + blockchain for sustainable food | [github.com/Aura-Farms](https://github.com/Aura-Farms) | [aurafarming.net](https://aurafarming.net) |
