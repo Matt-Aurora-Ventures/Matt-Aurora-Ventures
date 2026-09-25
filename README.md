@@ -21,22 +21,24 @@
 
 ## The Short Version
 
-I spent 10 years scattered across Central America, mostly building things and pretending I enjoyed the humidity. Now I'm based in Edmonton, where the cold forces me to stay inside and write code. 
+I spent 10 years scattered across Central America, mostly building things and pretending I enjoyed the humidity. Now I'm based in Edmonton, where the cold forces me to get outside and freeze in my construction background, but stay busy across a variety of different projects when I'm inside.
 
-I’m a serial entrepreneur and a relentless tinkerer. I used to be heavy into the blockchain and VC world, but these days my focus has shifted. My real passion is **building**. Some things work out, some don't—that's the nature of the game. 
+I don't take myself too seriously. I’m a serial entrepreneur and a relentless tinkerer. I used to be heavy into the blockchain and VC world. I still love crypto and building apps for it, but my broader focus has expanded. My real passion is **building**. Some things work out, some don't—that's the price you pay for being a tinkerer. 
 
 My current obsessions?
-1. **AI & Automation:** Creating bespoke software and automations for clients to make their businesses run themselves.
-2. **Sustainable Construction:** Taking software back to the physical world to build sustainable housing.
-3. **Education:** Running [Antihero AI](https://www.facebook.com/groups/antiheroai), a group dedicated to entrepreneurship, AI education, and making sure the future isn't entirely boring.
+1. **Operations & Automation:** Writing code, consulting, and building bespoke automations for companies (like [Evolved](https://github.com/kr8tiv-ai/evolved), an MCP backend for entire businesses that's been tried and tested in the field).
+2. **Sustainable Construction:** Taking software back to the physical world to build sustainable housing and businesses.
+3. **Education & Open Source:** Running [Antihero AI](https://www.facebook.com/groups/antiheroai), contributing to open source, and educating others on how to build.
 
 ---
 
 ## What I Actually Do
 
-I build constantly. My repositories are a graveyard of scrapped-together ideas, half-finished midnight epiphanies, and a few polished gems that actually made it to production. 
+I build constantly. I've been coding heavily for the last 4 years, focusing heavily on AI. My repositories are a collection of all my madness together—scrapped-together ideas, half-finished midnight epiphanies, and a few polished gems that actually made it to production. I love the creative aspect of websites and working with GLB/3D models, but I also love deep backend logic.
 
-I don't just build for the sake of it; I build to solve real-world problems. Whether it's an AI agent that automates a boring workflow, a trading bot, or software to manage sustainable construction projects—if it's interesting, I'm probably writing a script for it right now.
+I don't just build for the sake of it; I build to solve real-world problems. Whether it's an AI agent that automates a boring workflow, a 3D web experience, or software to manage sustainable construction projects—if it's interesting, I'm probably writing a script for it right now. I'm always looking to learn about new tools and try new things.
+
+**Want to collaborate?** If you have a sustainable business with a good future behind it, or just something genuinely interesting, reach out to me. I'm always open to working together on cool projects.
 
 ---
 
